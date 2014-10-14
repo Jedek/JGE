@@ -1,4 +1,4 @@
 JGE
 ===
 
-Jedeks Gaming Engine
+Jedeks Gaming Framework
