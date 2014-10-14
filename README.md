@@ -1,4 +1,4 @@
-JGE
+JGF
 ===
 
 Jedeks Gaming Framework
